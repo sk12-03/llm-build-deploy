@@ -1,4 +1,7 @@
 fastapi
-uvicorn
-requests
+uvicorn[standard]
+httpx
+pydantic
+python-dotenv
+jinja2
 
